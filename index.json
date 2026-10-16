@@ -1,0 +1,11 @@
+{
+  "org": "holoviz",
+  "repo": "hvplot",
+  "versions": [
+    {
+      "commit": "3fc8075f9d809d0b4a7401dfa137d29ffc03fbf5",
+      "tag": "",
+      "parsed_at": "2026-10-16T23:47:17.409008+00:00"
+    }
+  ]
+}
