@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/holoviz/hvplot/commit/3fc8075f9d809d0b4a7401dfa137d29ffc03fbf5",
       "git:hexsha": "3fc8075f9d809d0b4a7401dfa137d29ffc03fbf5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/holoviz/hvplot/commit/361a716ea1fa3500d56386f9fa0e1974fb423554",
